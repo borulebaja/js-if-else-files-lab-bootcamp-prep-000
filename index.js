@@ -1,5 +1,6 @@
 var name = "Joe"
-if(name)
+if(index.name === Joe)
+console.log("")
 var height = "74"
  
 // Don't worry about this
