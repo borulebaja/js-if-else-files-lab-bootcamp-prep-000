@@ -1,9 +1,9 @@
 var name = "Joe"
-if(name === Joe) {
+if(index.name === Joe) {
 console.log("The name is correct")
 }
 var height = "74"
-if(height === 74) {
+if(index.height === 74) {
   console.log("The height is correct")
 }
  
